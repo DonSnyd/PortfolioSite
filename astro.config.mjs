@@ -1,8 +1,11 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 
+import preact from '@astrojs/preact';
+
 // https://astro.build/config
 export default defineConfig({
-    site: 'https://DonSnyd.github.io',
-    base: '/PortfolioSite',
+  site: 'https://DonSnyd.github.io',
+  base: '/PortfolioSite',
+  integrations: [preact()],
 });
