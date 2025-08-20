@@ -41,7 +41,7 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
-    website: 'https://example.com',
+    website: 'https://DonSnyd.github.io',
     title: 'Donovan Snyder',
     // subtitle: 'Donovan Snyder\'s Home page',
     description: 'Everything you would want to know about Donovan Snyder',
@@ -54,15 +54,15 @@ const siteConfig: SiteConfig = {
     headerNavLinks: [
         {
             text: 'Home',
-            href: '/'
+            href: '/PortfolioSite'
         },
         {
             text: 'About',
-            href: '/about'
+            href: '/PortfolioSite/about'
         },
         {
             text: 'Projects',
-            href: '/projects'
+            href: '/PortfolioSite/projects'
         },
         // {
         //     text: 'Blog',
@@ -115,7 +115,7 @@ const siteConfig: SiteConfig = {
         actions: [
             {
                 text: 'Get in Touch',
-                href: '/contact'
+                href: '/PortfolioSite/contact'
             }
         ]
     },
