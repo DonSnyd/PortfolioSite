@@ -1,92 +1,98 @@
-html {
-  background-color: #f1f5f9;
-  font-family: sans-serif;
-}
+@import '@fontsource-variable/inter' layer(base);
+@import '@fontsource-variable/newsreader' layer(base);
+@import '@fontsource-variable/newsreader/wght-italic.css' layer(base);
 
-body {
-  margin: 0 auto;
-  width: 100%;
-  max-width: 80ch;
-  padding: 1rem;
-  line-height: 1.5;
-}
+@import 'tailwindcss';
+@plugin '@tailwindcss/typography';
 
-* {
-  box-sizing: border-box;
-}
+@custom-variant dark (&:where(.dark, .dark *));
 
-h1 {
-  margin: 1rem 0;
-  font-size: 2.5rem;
+:root {
+    --text-main: #171717;
+    --bg-main: #f2f1ec;
+    --bg-muted: #eae9e1;
+    --border-main: #171717;
 }
-
 html.dark {
-  background-color: #0d0950;
-  color: #fff;
+    --text-main: #f2f1ec;
+    --bg-main: #171717;
+    --bg-muted: #242424;
+    --border-main: #f2f1ec;
 }
 
-.dark .nav-links a {
-  color: #fff;
+/* Cyan */
+/*
+:root {
+    --text-main: #162a2b;
+    --bg-main: #d6e0e2;
+    --bg-muted: #ccd8db;
+    --border-main: #162a2b;
+}
+html.dark {
+    --text-main: #d6e0e2;
+    --bg-main: #162a2b;
+    --bg-muted: #1c3537;
+    --border-main: #d6e0e2;
+}
+*/
+
+/* Green */
+/*
+:root {
+    --text-main: #3a4238;
+    --bg-main: #f3efe6;
+    --bg-muted: #eee9dc;
+    --border-main: #3a4238;
+}
+html.dark {
+    --text-main: #f3efe6;
+    --bg-main: #5e6c5b;
+    --bg-muted: #596756;
+    --border-main: #f3efe6;
+}
+*/
+
+@theme inline {
+    --font-sans: 'Inter Variable', sans-serif;
+    --font-serif: 'Newsreader Variable', serif;
+    --text-color-main: var(--text-main);
+    --background-color-main: var(--bg-main);
+    --background-color-muted: var(--bg-muted);
+    --border-color-main: var(--border-main);
 }
 
-/* nav styles */
-.hamburger {
-  padding-right: 20px;
-  cursor: pointer;
-}
+@layer utilities {
+    .prose {
+        --tw-prose-body: var(--text-color-main);
+        --tw-prose-headings: var(--text-color-main);
+        --tw-prose-lead: var(--text-color-main);
+        --tw-prose-links: var(--text-color-main);
+        --tw-prose-bold: var(--text-color-main);
+        --tw-prose-counters: var(--text-color-main);
+        --tw-prose-bullets: var(--text-color-main);
+        --tw-prose-hr: var(--border-color-main);
+        --tw-prose-quotes: var(--text-color-main);
+        --tw-prose-quote-borders: var(--border-color-main);
+        --tw-prose-captions: var(--text-color-main);
+        --tw-prose-kbd: var(--text-color-main);
+        --tw-prose-code: var(--text-color-main);
+        --tw-prose-th-borders: var(--border-color-main);
+        --tw-prose-td-borders: var(--border-color-main);
+    }
 
-.hamburger .line {
-  display: block;
-  width: 40px;
-  height: 5px;
-  margin-bottom: 10px;
-  background-color: #ff9776;
-}
+    .prose a {
+        @apply underline font-normal decoration-1 underline-offset-2 decoration-dashed hover:decoration-solid;
+    }
 
-.nav-links {
-  width: 100%;
-  top: 5rem;
-  left: 48px;
-  background-color: #ff9776;
-  display: none;
-  margin: 0;
-}
+    .prose :where(h1, h2, h3, h4, h5, h6) {
+        @apply font-serif font-medium;
+    }
 
-.nav-links a {
-  display: block;
-  text-align: center;
-  padding: 10px 0;
-  text-decoration: none;
-  font-size: 1.2rem;
-  font-weight: bold;
-  text-transform: uppercase;
-}
+    .prose :where(code, strong) {
+        @apply font-medium;
+    }
 
-.nav-links a:hover,
-.nav-links a:focus {
-  background-color: #ff9776;
-}
-
-.expanded {
-  display: unset;
-}
-
-@media screen and (min-width: 636px) {
-  .nav-links {
-    margin-left: 5em;
-    display: block;
-    position: static;
-    width: auto;
-    background: none;
-  }
-
-  .nav-links a {
-    display: inline-block;
-    padding: 15px 20px;
-  }
-
-  .hamburger {
-    display: none;
-  }
-
+    .prose blockquote {
+        @apply font-serif font-normal italic border-none pl-0 text-[1.375em] leading-snug sm:text-[1.66667em];
+    }
 }
