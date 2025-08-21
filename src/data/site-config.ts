@@ -61,8 +61,16 @@ const siteConfig: SiteConfig = {
             href: '/PortfolioSite/about'
         },
         {
-            text: 'Projects',
-            href: '/PortfolioSite/projects'
+            text: 'Research',
+            href: '/PortfolioSite/research'
+        },
+        {
+            text: 'Teaching',
+            href: '/PortfolioSite/teaching'
+        },
+        {
+            text: 'Mentoring',
+            href: '/PortfolioSite/mentoring'
         },
         // {
         //     text: 'Blog',
@@ -109,7 +117,7 @@ const siteConfig: SiteConfig = {
         // title: 'Welcome to my Site!',
         text: "I'm currently a fifth year graduate student in the Math Department of the University of Rochester",
         image: {
-            src: '/SnyderHeadshot.JPG',
+            src: '/PortfolioSite/SnyderHeadshot.JPG',
             alt: 'A person standing in front of a glass background'
         },
         actions: [

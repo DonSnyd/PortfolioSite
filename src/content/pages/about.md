@@ -3,9 +3,6 @@ title: About
 seo:
   title: About Me
   description: Learn about my research, teaching, and other interests.
-  image:
-    src: "/about.jpeg"
-    alt: A person sitting at a desk in front of a computer
 ---
 
 ## Research
@@ -51,7 +48,7 @@ Previously, I’ve studied a variety of things:
 
 - MATH 140, _Foundations of Calculus_, recitation leader
 - MATH 218, _Math Modeling of the Life Sciences_, grading, substitute lectures
-- MATH 263, _Qualitivate Theory of Ordinary Differential Equations_, grading
+- MATH 263, _Qualitative Theory of Ordinary Differential Equations_, grading
 - MATH 436, _Graduate Algebra I_, grading
 - MATH 173, _Honors Linear Algebra_, recitation leader, substitute lectures
 - MATH 143, _Calculus III_, recitation leader
@@ -60,9 +57,19 @@ Previously, I’ve studied a variety of things:
 
 ## Mentoring
 
-I am currently directing our graduate student’s reading program for undergraduates. I run my own reading group, often based on my research. Reach out to me if you are interested in participating.
+I am currently directing our graduate student’s reading program for undergraduates. I run my own reading group, often based on my research. [Look here](/PortfolioSite/mentoring) if you are interested in participating.
 
 ### Education
 
 As an undergraduate, I got an Honors B.S. in Math and a B.S. Physics at the University of Rochester, while also minoring in Music.
 I’ve received my Master of Arts in Mathematics, also from the University of Rochester.
+
+## Music
+
+I've played the viola since I was young, and continue playing in orchestras around Rochester. In my time at UR, I've been an active member of the Music Department on the River Campus and participated in opportunities at Eastman.
+
+I was fortunate enough to also be given the chance to be an Assistant Conductor for the University of Rochester Orchestras, conducting multiple times in concerts and rehearsals.
+
+For many years, I was also the Head librarian and took care of many related administrative duties.
+
+I am relatively new to the conducting end of things, but if you are curious in what I've done, feel free to reach out!
