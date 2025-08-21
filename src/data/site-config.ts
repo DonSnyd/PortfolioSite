@@ -115,7 +115,7 @@ const siteConfig: SiteConfig = {
     // ],
     hero: {
         // title: 'Welcome to my Site!',
-        text: "I'm currently a fifth year graduate student in the Math Department of the University of Rochester",
+        text: "I'm currently a fifth year graduate student in the Math Department of the University of Rochester.",
         image: {
             src: '/PortfolioSite/SnyderHeadshot.JPG',
             alt: 'A person standing in front of a glass background'
