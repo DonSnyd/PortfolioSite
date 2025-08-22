@@ -7,53 +7,11 @@ seo:
 
 ## Research
 
-Broadly, my work involves analyzing probabilistic models using algebraic tools. I work with my advisors Arjun Krishnan and Jon Pakianathan. More specifically, I’ve studied
+My work involves analyzing probabilistic models using algebraic tools. Most recently, that involves Polymer and Six-Vertex models using techniques like geometric RSK and the Yang-Baxter equation. If you're interested or want to talk, reach out! I go more in depth on the [research page](/PortfolioSite/research)
 
-- The log-gamma Polymer Model under the force of an external field
-- Applications of algebraic structures to settings like the Ising Model, the Asymmetric Simple Exclusion Process, and the Stochastic Six-Vertex Model
-- The use of Hopf algebras in statistical mechanics, including extracting a Markov Chain with a phase transition.
+## Teaching
 
-Previously, I’ve studied a variety of things:
-
-- Using VC-dimension to construct witness sets in fractal settings
-
-  Work with Alex Iosevich and Emmett Wyman
-
-- A “quantum probability” and an example of a two state random walk
-
-  My undergraduate Math and Physics Thesis, work with Sarada Rajeev
-
-- Creating a theory of data movement distance to measure algorithmic complexity.
-
-  Work with Chen Ding in the Systems Group of the Computer Science Department
-
-## Previous Teaching
-
-#### As an Instructor at the University of Rochester
-
-- MATH 140, _Foundations of Calculus_
-  - Fall 2024, Course coordinator and instructor
-  - College Algebra and Trigonometry in preparation for Calculus
-  - Adapt syllabus, lead class, coordinate TAs, manage WeBWorK assignments, create and grade exams
-- Math 143, _Calculus III_
-  - Summers 2022-2024, Springs 2024-2025 as instructor
-  - Summer 2025 as course coordinator and instructor
-  - Part of Calculus 2, including sequences, series, parametric equations, and polar coordinates
-- MATH 120 _Precalculus Module_
-  - Summers 2021-2025 as instructor, course designer, and head math instructor
-  - College Algebra and Trigonometry for incoming first year students in the Early Connections Opportunity program
-  - Design course curriculum and syllabus, manage other instructors, mentor students, collaborate with other faculty and staff to prepare scholars
-
-#### As a Graduate Teaching Assistant at the University of Rochester
-
-- MATH 140, _Foundations of Calculus_, recitation leader
-- MATH 218, _Math Modeling of the Life Sciences_, grading, substitute lectures
-- MATH 263, _Qualitative Theory of Ordinary Differential Equations_, grading
-- MATH 436, _Graduate Algebra I_, grading
-- MATH 173, _Honors Linear Algebra_, recitation leader, substitute lectures
-- MATH 143, _Calculus III_, recitation leader
-- MATH 141, _Calculus I_, recitation leader
-  Generally, recitation leaders lead 3 small student, active learning workshops each week, grade exams, and help as substitutes for some lectures. Graders grade weekly homework assignments, exams, and provide assistance with course management.
+I have a passion for teaching, whether it be upper-level courses for math majors, introductory courses for non-majors, or tutoring. See more about my philosophy and experience on the [teaching page](/PortfolioSite/teaching)
 
 ## Mentoring
 
@@ -66,10 +24,14 @@ I’ve received my Master of Arts in Mathematics, also from the University of Ro
 
 ## Music
 
-I've played the viola since I was young, and continue playing in orchestras around Rochester. In my time at UR, I've been an active member of the Music Department on the River Campus and participated in opportunities at Eastman.
+I've played the viola since I was young, and continue playing in orchestras around Rochester. In my time at U of R, I've been an active member of the Music Department on the River Campus and participated in opportunities at Eastman.
 
 I was fortunate enough to also be given the chance to be an Assistant Conductor for the University of Rochester Orchestras, conducting multiple times in concerts and rehearsals.
 
 For many years, I was also the Head librarian and took care of many related administrative duties.
 
 I am relatively new to the conducting end of things, but if you are curious in what I've done, feel free to reach out!
+
+## Athletics
+
+I've worked on the game operations staff in the Athletic Department at U of R since my first year. We track and collect live play-by-play statistics, run the scoreboard and clocks, and complete other administrative duties during the matches/games of the varsity athletic teams.

@@ -2,16 +2,14 @@
 title: Research
 seo:
   title: Research
-  description: Go in depth amount Donovan's current and former research projects.
+  description: Go in depth about Donovan's current and former research projects.
 ---
-
-## Research
 
 Broadly, my work involves analyzing probabilistic models using algebraic tools. I work with my advisors Arjun Krishnan and Jon Pakianathan. More specifically, I’ve studied
 
 - The log-gamma Polymer Model under the force of an external field
 - Applications of algebraic structures to settings like the Ising Model, the Asymmetric Simple Exclusion Process, and the Stochastic Six-Vertex Model
-- The use of Hopf algebras in statistical mechanics, including extracting a Markov Chain with a phase transition.
+- The use of Hopf algebras in statistical mechanics, including extracting a Markov Chain with a phase transition. Worked with Sarada Rajeev.
 
 Previously, I’ve studied a variety of things:
 
