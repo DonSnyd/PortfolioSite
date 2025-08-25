@@ -15,12 +15,12 @@ The graduate students of the Math Department at the University of Rochester offe
 For the Fall 2025 semester we are running a reading groups program, where you can learn about a topic by reading books or papers under the guidance of a graduate student. These reading group topics can possibly turn into an <a href ="https://www.sas.rochester.edu/mth/undergraduate/honors-thesis.html" target="_blank" rel="noopener">honors thesis</a> by expanding upon the work done with a faculty advisor.
 **Reading groups are open to all students and non-majors are encouraged to join.**
 
+Sign up for a reading group by filling out [this form](https://docs.google.com/forms/d/e/1FAIpQLSeqE3bh3-KvN-MdAstsOZ0RBUyO6B_fW3DVswEVkgafLOo--A/viewform?usp=header). We will reach out to you by September 5!
+
 <!-- All other groups are now started for Spring 2024. If you would still like to try to join a reading group,
 contact Donovan. -->
 
 If you have any comments or questions, contact [Donovan Snyder](/PortfolioSite).
-
----
 
 ## Reading Group Topics for Fall 2025
 
@@ -32,7 +32,7 @@ If you have any comments or questions, contact [Donovan Snyder](/PortfolioSite).
 - *Resources to be Used*:
 -->
 
-### Category Theory
+### Topics in Category Theory
 
 - _Grad student organizer_: Siddharth Gurumurthy
 - _Description_: The preliminary plan is to talk about the basic concepts in category theory: categories, functors, the Yoneda lemma, (co)limits and adjunctions with a bunch of examples. The plan is subject to change and will depend on the available time and the interests of the participant(s).
@@ -52,6 +52,8 @@ If you have any comments or questions, contact [Donovan Snyder](/PortfolioSite).
 - _Description_: The area of "integrable probability" is the study of systems that can be studied and analyzed using algebra: sometimes complicated group and Lie theory, but often times more simple procedures. We'll deal with those more simple procedures to look at examples such as ASEP, the Polymer, and Six-Vertex models and answer basic questions.
 - _Prerequisites_: We will need to know the ideas of probability (MATH 201) and will freely use multi-variable calculus and linear algebra (MATH 164,165,235). The ideas of algebra (MATH 236) will be very helpful.
 - _Resources to be Used_: Depends on the interest of the student, but likely _Lectures on integrable probability_ - Borodin and Gorin, _Random polymers via orthogonal Whittaker and symplectic Schur functions_ - Bisi, _Stochastic six-vertex model_ - Borodin, Corwin, and Gorin
+
+---
 
 ## For Graduate Students
 
