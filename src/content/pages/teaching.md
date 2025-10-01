@@ -32,4 +32,4 @@ seo:
 - MATH 143, _Calculus III_, recitation leader
 - MATH 141, _Calculus I_, recitation leader
 
-Generally, recitation leaders lead 3 small student, active learning workshops each week, grade exams, and help as substitutes for some lectures. Graders grade weekly homework assignments, exams, and provide assistance with course management.
+Generally, recitation leaders lead 3 small, active workshops each week, grade exams, and help as substitutes for some lectures. Graders grade weekly homework assignments, exams, and provide assistance with course management.
