@@ -5,7 +5,7 @@ seo:
   description: Learn about Donovan's teaching experience, philosophy, and see some materials.
 ---
 
-My teaching portfolio gives a good sense of my philosophy and experience. See it <a href="PortfolioSite/TeachingPortfolio.pdf">here</a>
+My teaching portfolio gives a good sense of my philosophy and experience. See it <a href="/PortfolioSite/TeachingPortfolio.pdf">here</a>.
 
 ## Previous Teaching
 
