@@ -41,7 +41,7 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
-    website: 'https://DonSnyd.github.io',
+    website: 'https://DonSnyd.github.io/PortfolioSite',
     title: 'Donovan Snyder',
     // subtitle: 'Donovan Snyder\'s Home page',
     description: 'Everything you would want to know about Donovan Snyder',
