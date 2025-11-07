@@ -123,7 +123,7 @@ const siteConfig: SiteConfig = {
         actions: [
             {
                 text: 'Get in Touch',
-                href: '/PortfolioSite/contact'
+                href: '/PortfolioSite/'
             }
         ]
     },
