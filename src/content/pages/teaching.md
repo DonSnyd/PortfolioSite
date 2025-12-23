@@ -25,12 +25,12 @@ My <a href="/PortfolioSite/TeachingPortfolio.pdf">teaching portfolio</a> gives a
 
 #### As a Graduate Teaching Assistant at the University of Rochester
 
-- MATH 140, _Foundations of Calculus_, recitation leader
-- MATH 218, _Math Modeling of the Life Sciences_, grading, substitute lectures
-- MATH 263, _Qualitative Theory of Ordinary Differential Equations_, grading
-- MATH 436, _Graduate Algebra I_, grading
-- MATH 173, _Honors Linear Algebra_, recitation leader, substitute lectures
-- MATH 143, _Calculus III_, recitation leader
-- MATH 141, _Calculus I_, recitation leader
+- MATH 140, _Foundations of Calculus_, recitation leader, Fall 2025
+- MATH 436, _Graduate Algebra I_, grading, Fall 2023
+- MATH 218, _Math Modeling of the Life Sciences_, grading, substitute lectures, Spring 2023
+- MATH 263, _Qualitative Theory of Ordinary Differential Equations_, grading, Spring 2023
+- MATH 173, _Honors Linear Algebra_, recitation leader, substitute lectures, Fall 2022
+- MATH 143, _Calculus III_, recitation leader, Spring 2022
+- MATH 141, _Calculus I_, recitation leader, Fall 2021
 
 Generally, recitation leaders lead 3 small, active workshops each week, grade exams, and help as substitutes for some lectures. Graders grade weekly homework assignments, exams, and provide assistance with course management.
