@@ -12,15 +12,14 @@ My <a href="/PortfolioSite/TeachingPortfolio.pdf">teaching portfolio</a> gives a
 #### As an Instructor at the University of Rochester
 
 - MATH 140, _Foundations of Calculus_
-  - Fall 2024, Course coordinator and instructor
+  - (1 semester) Fall 2024, Course coordinator and instructor
   - College Algebra and Trigonometry in preparation for Calculus
   - Adapt syllabus, lead class, coordinate TAs, manage WeBWorK assignments, create and grade exams
 - Math 143, _Calculus III_
-  - Summers 2022-2024, Springs 2024-2025 as instructor
-  - Summer 2025 as course coordinator and instructor
+  - (7 semesters) Summers 2022-2024, Springs 2024-2026 as instructor, Summer 2025 as course coordinator and instructor
   - Part of Calculus 2, including sequences, series, parametric equations, and polar coordinates
 - MATH 120 _Precalculus Module_
-  - Summers 2021-2025 as instructor, course designer, and head math instructor
+  - (5 courses) Summers 2021-2025 as instructor, course designer, and head math instructor
   - College Algebra and Trigonometry for incoming first year students in the Early Connections Opportunity program
   - Design course curriculum and syllabus, manage other instructors, mentor students, collaborate with other faculty and staff to prepare scholars
 
