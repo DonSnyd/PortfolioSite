@@ -16,7 +16,7 @@ For the Spring 2026 semester we are running a reading groups program, where you 
 
 <!-- All other groups are now started for Fall 2025! If you would still like to try to join a reading group, contact Donovan. -->
 
-Check out the choices for reading groups below, and check back soon for a link to sign up!
+<em> Check out the choices for reading groups below, and check back soon for a link to sign up! </em>
 
 <!-- ### Sign up for a reading group by filling out [this form](https://docs.google.com/forms/d/e/1FAIpQLSeqE3bh3-KvN-MdAstsOZ0RBUyO6B_fW3DVswEVkgafLOo--A/viewform?usp=header). We will reach out to you by September 12! -->
 
