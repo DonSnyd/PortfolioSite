@@ -16,7 +16,7 @@ For the Spring 2026 semester we are running a reading groups program, where you 
 
 <!-- All other groups are now started for Fall 2025! If you would still like to try to join a reading group, contact Donovan. -->
 
-<em> Check out the choices for reading groups below, and check back soon for a link to sign up! </em>
+**_Check out the choices for reading groups below, and check back soon for a link to sign up!_**
 
 <!-- ### Sign up for a reading group by filling out [this form](https://docs.google.com/forms/d/e/1FAIpQLSeqE3bh3-KvN-MdAstsOZ0RBUyO6B_fW3DVswEVkgafLOo--A/viewform?usp=header). We will reach out to you by September 12! -->
 
@@ -32,12 +32,12 @@ If you have any comments or questions, contact [Donovan Snyder](/PortfolioSite).
 - *Resources to be Used*:
 -->
 
-### Introducing Polymer Models
+### Foundations of Algebraic Topology
 
-- _Grad student organizer_: Roan James
-- _Description_: The plan is to introduce the basics of polymer models. These can be seen as simple random walks (SRW) in an external medium/environment. We will start by recalling some of the basic properties of the SRW (transience/recurrence) and then proceed to define polymer models. If there is time, we can introduce the KPZ universality class.
-- _Prerequisites_: Math 201 is essential. Math 265 would be helpful but not required.
-- _Resources to be Used_: _Random Walks and the Heat Equation_ - Greg Lawler
+- _Grad student organizer_: Luke Barbarita
+- _Description_: Algebraic Topology studies topological spaces through the scope of algebraic structures and tools, such as groups and homomorphisms. The goal of this reading course is to learn the foundational language and intuition for the subject. We will likely cover, time permitting, topics such as basic category theory, homotopy of maps, fundamental groups, homotopy groups, homology, and cohomology, with an emphasis on how algebraic invariants encode topological information. To do so we will be going through the first few chapters of Joseph Rotman’s An Introduction to Algebraic Topology, focusing on understanding definitions, key theorems, and some concrete examples. Other additional sources and/or topics may be added based off the interest of participants.
+- _Prerequisites_: Abstract Algebra (MATH 236) and Point-Set Topology (MATH 240) are required.
+- _Resources to be used_: _An Introduction to Algebraic Topology_ - Joseph Rotman
 
 ### Arithmetic Dynamics
 
@@ -46,6 +46,13 @@ If you have any comments or questions, contact [Donovan Snyder](/PortfolioSite).
 - _Prerequisites_: Math 230 and 237 are required. Some knowledge of equivalence relations/classes and projective space will be helpful, although we will review these concepts if anyone needs.
 - _Resources to be Used_: _The Arithmetic of Dynamical Systems_ - Joseph Silverman
 
+### Introducing Polymer Models
+
+- _Grad student organizer_: Roan James
+- _Description_: The plan is to introduce the basics of polymer models. These can be seen as simple random walks (SRW) in an external medium/environment. We will start by recalling some of the basic properties of the SRW (transience/recurrence) and then proceed to define polymer models. If there is time, we can introduce the KPZ universality class.
+- _Prerequisites_: Math 201 is essential. Math 265 would be helpful but not required.
+- _Resources to be Used_: _Random Walks and the Heat Equation_ - Greg Lawler
+
 ### Introduction to Harmonic Analysis
 
 - _Grad student organizers_: Zhihe Li, Ke Yu
@@ -53,13 +60,16 @@ If you have any comments or questions, contact [Donovan Snyder](/PortfolioSite).
 - _Prerequisites_: Analysis of 170’s, 265H. The topics of the reading course will be adjusted to the level of the students.
 - _Resources to be used_: _Lectures in Harmonic Analysis_ - Thomas Wolff
 
-### TBD
-
-- _Grad student organizer_: Luke Barbarita
-
-### TBD
+### Algebraic Methods to solve Probabilistic Models
 
 - _Grad student organizer_: Donovan Snyder
+- _Description_: The area of "integrable probability" is the study of systems that can be studied and analyzed using algebra: sometimes complicated group and Lie theory, but often times more simple procedures. We'll deal with those more simple procedures to look at examples such as ASEP, the Polymer, and Six-Vertex models and answer basic questions.
+- _Prerequisites_: We will need to know the ideas of probability (MATH 201) and will freely use multi-variable calculus and linear algebra (MATH 164,165,235). The ideas of algebra (MATH 236) will be very helpful.
+- _Resources to be Used_: Depends on the interest of the student, but likely _The Surprising Mathematics of Longest Increasing Subsequences_ - Dan Romik, _Lectures on integrable probability_ - Borodin and Gorin
+
+### Quantum Information Theory
+
+This isn't officially a reading group, but is something that is happening. If you have interest, contact Donovan.
 
 ## Groups from Previous Semesters
 
@@ -76,13 +86,6 @@ If you have any comments or questions, contact [Donovan Snyder](/PortfolioSite).
 - _Description_: One might find it easy to think about figures in a 2-dimensional plane. Imagining figures in a 3-dimensional space might also be not that hard. But what if we move to 4-dimensional spaces, or 5, 6, or even higher? Imagination in these cases turns out to be not very helpful. To solve this problem, topologists developed so-called "topological invariants", which can normally be derived by just computations. In this reading group, we will learn about a particular example, that is the mapping degree, which can be used to distinguish mappings between high-dimensional figures.
 - _Prerequisites_: Some basic multi-variable calculus (MATH 164/174) and point-set topology (MATH 240) is required. Some knowledge to manifolds will be helpful.
 - _Resources to be Used_: _Topology from the differentiable viewpoint_ - John Milnor
-
-### Algebraic Methods to solve Probabilistic Models
-
-- _Grad student organizer_: Donovan Snyder
-- _Description_: The area of "integrable probability" is the study of systems that can be studied and analyzed using algebra: sometimes complicated group and Lie theory, but often times more simple procedures. We'll deal with those more simple procedures to look at examples such as ASEP, the Polymer, and Six-Vertex models and answer basic questions.
-- _Prerequisites_: We will need to know the ideas of probability (MATH 201) and will freely use multi-variable calculus and linear algebra (MATH 164,165,235). The ideas of algebra (MATH 236) will be very helpful.
-- _Resources to be Used_: Depends on the interest of the student, but likely _Lectures on integrable probability_ - Borodin and Gorin, _Random polymers via orthogonal Whittaker and symplectic Schur functions_ - Bisi, _Stochastic six-vertex model_ - Borodin, Corwin, and Gorin
 
 ---
 
