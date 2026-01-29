@@ -49,7 +49,7 @@ const siteConfig: SiteConfig = {
         src: '/dante-preview.jpg',
         alt: 'Dante - Astro.js and Tailwind CSS theme'
     },
-    officeHours: 'TBD for Spring 2026, in Hylan 710 or on Zoom',
+    officeHours: 'Wednesdays at 2pm, Thursdays at 11am, in Hylan 710 or on Zoom',
     email: 'dsnyd15(at)ur.rochester(dot)edu',
     headerNavLinks: [
         {
