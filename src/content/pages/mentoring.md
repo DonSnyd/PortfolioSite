@@ -14,11 +14,11 @@ The graduate students of the Math Department at the University of Rochester offe
 For the Spring 2026 semester we are running a reading groups program, where you can learn about a topic by reading books or papers under the guidance of a graduate student. These reading group topics can possibly turn into an <a href ="https://www.sas.rochester.edu/mth/undergraduate/honors-thesis.html" target="_blank" rel="noopener">honors thesis</a> by expanding upon the work done with a faculty advisor.
 **Reading groups are open to all students and non-majors are encouraged to join.**
 
-<!-- All other groups are now started for Fall 2025! If you would still like to try to join a reading group, contact Donovan. -->
+All groups are now started for Spring 2026! If you would still like to try to join a reading group, contact Donovan.
 
 <!-- **_Check out the choices for reading groups below, and check back soon for a link to sign up!_** -->
 
-### Sign up for a reading group by filling out [this form](https://docs.google.com/forms/d/e/1FAIpQLSc4600nan7h-mcE4-L-qsUtv3W756mGGnxnPQfzh21Ram0KlQ/viewform?usp=publish-editor). We will reach out to you by February 9!
+<!-- ### Sign up for a reading group by filling out [this form](https://docs.google.com/forms/d/e/1FAIpQLSc4600nan7h-mcE4-L-qsUtv3W756mGGnxnPQfzh21Ram0KlQ/viewform?usp=publish-editor). We will reach out to you by February 9! -->
 
 If you have any comments or questions, contact [Donovan Snyder](/PortfolioSite).
 
