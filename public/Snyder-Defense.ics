@@ -6,8 +6,8 @@ DTSTART:20260501T143000Z
 DTEND:20260501T153000Z
 DTSTAMP:20260412T193355Z
 SUMMARY:Donovan Snyder's Thesis Defense
-DESCRIPTION:Donovan Snyder's Thesis Defense!
-LOCATION:B&L 106, or on Zoom
-UID:10412
+DESCRIPTION:Donovan Snyder's Thesis Defense! Join on Zoom by contacting Donovan!
+LOCATION:B&L 106
+UID:20260501T143000Z-defense-snyder
 END:VEVENT
 END:VCALENDAR
