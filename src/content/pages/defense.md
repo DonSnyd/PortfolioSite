@@ -5,15 +5,23 @@ seo:
   description: Instructions for attending Donovan's thesis defense.
 ---
 
-## Thesis Defense Information
-
 I'm defending my thesis! It will occur on May 1st, 2026, at 10:30 AM Eastern.
+
+<p>
+  <a
+    href="/public/Snyder-Defense.ics"
+    download="Snyder-Defense.ics"
+    style="display:inline-block;padding:0.55rem 1rem;border:1px solid currentColor;border-radius:999px;text-decoration:none;font-style:italic;"
+  >
+    Add the defense to your calendar!
+  </a>
+</p>
 
 ### In-Person
 
 Anyone can attend in person: the defense takes place in Bausch and Lomb room 106.
 
-![Thesis Defense Location](/path/to/image.jpg)
+![Thesis Defense Location](public/Campus_Map.png)
 
 **Directions:**
 
@@ -24,9 +32,7 @@ Anyone can attend in person: the defense takes place in Bausch and Lomb room 106
 
 ### Virtual Attendance (Zoom)
 
-You can join using the following Zoom link:
-
-The meeting is password protected: reach out to me for access!
+You can join via Zoom! Reach out to me for the invitation!
 
 ---
 
