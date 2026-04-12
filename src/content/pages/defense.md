@@ -21,7 +21,7 @@ I'm defending my thesis! It will occur on May 1st, 2026, at 10:30 AM Eastern.
 
 Anyone can attend in person: the defense takes place in Bausch and Lomb room 106.
 
-![Thesis Defense Location](public/Campus_Map.png)
+![Thesis Defense Location](/public/Campus_Map.png)
 
 **Directions:**
 
