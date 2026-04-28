@@ -31,7 +31,7 @@ Anyone can attend in person: the defense takes place in Bausch and Lomb room 106
 
 ### Virtual Attendance (Zoom)
 
-You can join via Zoom! The link is in the calendar event, or reach out to me for the invitation!
+You can join via Zoom! Reach out to me for the link!
 
 ---
 
