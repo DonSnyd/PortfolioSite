@@ -119,7 +119,7 @@ const siteConfig: SiteConfig = {
     // ],
     hero: {
         // title: 'Welcome to my Site!',
-        text: "Welcome! I have just finished my Ph.D. from the <a href="https://www.sas.rochester.edu/mth/index.html">Math Department</a> of the University of Rochester. In the fall, I will be starting as a Lecturer in the Math Department at Stanford University.",
+        // text: "Welcome! I have just finished my Ph.D. from the <a href="https://www.sas.rochester.edu/mth/index.html">Math Department</a> of the University of Rochester. In the fall, I will be starting as a Lecturer in the Math Department at Stanford University.",
         image: {
             src: '/PortfolioSite/SnyderHeadshot.JPG',
             alt: 'A person standing in front of a glass background'
