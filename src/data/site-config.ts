@@ -49,7 +49,7 @@ const siteConfig: SiteConfig = {
         src: '/dante-preview.jpg',
         alt: 'Dante - Astro.js and Tailwind CSS theme'
     },
-    officeHours: 'Wednesdays at 2pm, Thursdays at 11am, in Hylan 710 or on Zoom',
+    officeHours: 'TBD for Summer 2026',
     email: 'dsnyd15(at)ur.rochester(dot)edu',
     headerNavLinks: [
         {
@@ -119,7 +119,7 @@ const siteConfig: SiteConfig = {
     // ],
     hero: {
         // title: 'Welcome to my Site!',
-        text: "Welcome! I'm currently a fifth year graduate student in the Math Department of the University of Rochester.",
+        text: "Welcome! I have just finished my Ph.D. from the <a href="https://www.sas.rochester.edu/mth/index.html">Math Department</a> of the University of Rochester. In the fall, I will be starting as a Lecturer in the Math Department at Stanford University.",
         image: {
             src: '/PortfolioSite/SnyderHeadshot.JPG',
             alt: 'A person standing in front of a glass background'
