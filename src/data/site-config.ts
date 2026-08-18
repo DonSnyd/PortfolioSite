@@ -68,10 +68,10 @@ const siteConfig: SiteConfig = {
             text: 'Teaching',
             href: '/PortfolioSite/teaching'
         },
-        {
-            text: 'Mentoring',
-            href: '/PortfolioSite/mentoring'
-        },
+        //{
+        //    text: 'Mentoring',
+        //    href: '/PortfolioSite/mentoring'
+        //},
         // {
         //     text: 'Defense',
         //     href: '/PortfolioSite/defense'
