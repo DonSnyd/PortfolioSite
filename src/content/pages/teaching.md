@@ -2,7 +2,7 @@
 title: Teaching
 seo:
   title: Teaching
-  description: Learn about Donovan's teaching experience, philosophy, and see some materials.
+  description: Learn about Donovan's teaching experience and philosophy.
 ---
 
 My <a href="/PortfolioSite/TeachingPortfolio.pdf">teaching portfolio</a> gives a good sense of my philosophy and experience.
@@ -19,7 +19,7 @@ My <a href="/PortfolioSite/TeachingPortfolio.pdf">teaching portfolio</a> gives a
   - (7 semesters) Summers 2022-2024, Springs 2024-2026 as instructor, Summer 2025 as course coordinator and instructor
   - Part of Calculus 2, including sequences, series, parametric equations, and polar coordinates
 - MATH 120 _Precalculus Module_
-  - (5 courses) Summers 2021-2025 as instructor, course designer, and head math instructor
+  - (6 courses) Summers 2021-2026 as instructor, course designer, and head math instructor
   - College Algebra and Trigonometry for incoming first year students in the Early Connections Opportunity program
   - Design course curriculum and syllabus, manage other instructors, mentor students, collaborate with other faculty and staff to prepare scholars
 
