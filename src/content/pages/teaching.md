@@ -5,9 +5,21 @@ seo:
   description: Learn about Donovan's teaching experience and philosophy.
 ---
 
-My <a href="/PortfolioSite/TeachingPortfolio.pdf">teaching portfolio</a> gives a good sense of my philosophy and experience.
+<-- My <a href="/PortfolioSite/TeachingPortfolio.pdf">teaching portfolio</a> gives a good sense of my philosophy and experience. -->
 
 ## Previous Teaching
+
+#### At Stanford University
+
+- MATH 56, _Proofs and Modern Mathematics_
+  - (1 quarter) Fall 2026, Course coordinator and instructor
+  - Introduction to logic, proof techniques, and their use in Linear Algebra and Real Analysis
+  - Design course curriculum and syllabus, manage course assistant and grader
+  - Implemented oral exams
+- Math 104, _Applied Matrix Theory_
+  - (1 quarter) Fall 2026, Course coordinator and instructor
+  - Introduction to applied linear algebra, studying matrix theory and its applications in science and engineering
+  - Adapt course curriculum, manage teaching team of graduate and undergraduate students
 
 #### As an Instructor at the University of Rochester
 
