@@ -50,7 +50,7 @@ const siteConfig: SiteConfig = {
         alt: 'Dante - Astro.js and Tailwind CSS theme'
     },
     officeHours: 'TBD for Summer 2026',
-    email: 'dsnyd15(at)ur.rochester(dot)edu',
+    email: 'dsnyd22(at)stanford(dot)edu',
     headerNavLinks: [
         {
             text: 'Home',
