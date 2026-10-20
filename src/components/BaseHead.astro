@@ -24,6 +24,9 @@ const resolvedImage = image?.src
     }
   : undefined;
 const canonicalURL = new URL(Astro.request.url, Astro.site);
+const siteBaseURL = new URL("/PortfolioSite/", Astro.site);
+const sitemapURL = new URL("sitemap-index.xml", siteBaseURL).toString();
+const rssURL = new URL("rss.xml", siteBaseURL).toString();
 
 /**
  * Enforce some standard canonical URL formatting across the site.
@@ -33,11 +36,18 @@ function formatCanonicalURL(url: string | URL) {
   const hasQueryParams = path.includes("?");
   // If there are query params, make sure the URL has no trailing slash
   if (hasQueryParams) {
-    path.replace(/\/?$/, "");
+    return path.replace(/\/?$/, "");
   }
   // otherwise, canonical URL always has a trailing slash
-  return path.replace(/\/?$/, hasQueryParams ? "" : "/");
+  return path.replace(/\/?$/, "/");
 }
+
+const webSiteSchema = JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  name: siteConfig.title,
+  url: formatCanonicalURL(siteBaseURL),
+});
 ---
 
 <!-- High Priority Global Metadata -->
@@ -45,6 +55,8 @@ function formatCanonicalURL(url: string | URL) {
 <meta name="viewport" content="width=device-width,initial-scale=1" />
 <title>{title}</title>
 <meta name="generator" content={Astro.generator} />
+<meta name="application-name" content={siteConfig.title} />
+<meta name="apple-mobile-web-app-title" content={siteConfig.title} />
 
 <!-- Fonts -->
 <link
@@ -82,18 +94,20 @@ function formatCanonicalURL(url: string | URL) {
   href="/PortfolioSite/favicon-16x16.png"
 />
 <link rel="manifest" href="/PortfolioSite/site.webmanifest" />
-<link rel="sitemap" href="/sitemap-index.xml" />
-<link rel="alternate" type="application/rss+xml" href="/rss.xml" title="RSS" />
+<link rel="sitemap" href={sitemapURL} />
+<link rel="alternate" type="application/rss+xml" href={rssURL} title="RSS" />
 
 <!-- Page Metadata -->
 <link rel="canonical" href={formatCanonicalURL(canonicalURL)} />
 <meta name="description" content={description} />
+<script type="application/ld+json" set:html={webSiteSchema} />
 
 <!-- Open Graph / Facebook -->
 <meta property="og:type" content={pageType} />
 <meta property="og:url" content={formatCanonicalURL(canonicalURL)} />
 <meta property="og:title" content={title} />
 <meta property="og:description" content={description} />
+<meta property="og:site_name" content={siteConfig.title} />
 {resolvedImage?.src && <meta property="og:image" content={resolvedImage.src} />}
 {
   resolvedImage?.alt && (
